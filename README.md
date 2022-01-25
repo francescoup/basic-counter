@@ -24,4 +24,4 @@ This program consists in an HTML file to create the page structure, CSS file to 
 Download the zip file, extract all the element in a new folder and open index.html file with your favorite browser
 
 ### If you want to try my counter and how it work, go to the follow link
-https://francescoup.github.io/start2impact-project/
+https://francescoup.github.io/start2impact-project/basic-counter/
